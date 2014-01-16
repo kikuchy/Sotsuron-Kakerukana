@@ -1,8 +1,8 @@
 // 名前
-var name = 'ほと';
+var name = 'kikuchy';
 
 // 進捗状況(0〜100)
-var progress = 5;
+var progress = 8;
 
 // 卒論〆切
-var deadline = '2014/2/10 17:00';
+var deadline = '2014/1/30 17:00';
